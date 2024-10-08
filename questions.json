@@ -1,0 +1,250 @@
+{
+  "heading": "Present Perfect and Past Perfect Tense",
+  "topics": [
+    {
+      "heading": "Present Perfect and Past Perfect Tense",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Fill in the blanks appropriately:<br> By the time she reached the airport, her flight ___ already ___.",
+          "options": [
+            "has; left",
+            "had; left",
+            "have; left",
+            "has; leave"
+          ],
+          "answer": 1,
+          "explanation": "The past perfect tense (had left) is used to indicate that the flight had already departed before the time she reached the airport. The present perfect form 'has left' is incorrect here because it does not align with the sequence of events being described."
+        },
+        {
+          "questionNo": 2,
+          "question": "Fill in the blanks appropriately:<br> He ___ not ___ the new book yet, despite hearing so much about it.",
+          "options": [
+            "has; read",
+            "had; read",
+            "have; read",
+            "had; read"
+          ],
+          "answer": 0,
+          "explanation": "The present perfect tense is used to indicate that, up to now, he has not completed reading the book. 'Has not read' is correct here as it emphasizes the current relevance of the action."
+        },
+        {
+          "questionNo": 3,
+          "question": "Fill in the blanks appropriately:<br> ___ you ___ the email from the manager?",
+          "options": [
+            "Did; receive",
+            "Have; received",
+            "Had; received",
+            "Has; received"
+          ],
+          "answer": 1,
+          "explanation": "The correct present perfect tense form is 'Have received' to ask if the email has been received up to the present moment. The other options use incorrect tenses for the question."
+        },
+        {
+          "questionNo": 4,
+          "question": "Fill in the blanks appropriately:<br> ___ they ___ any updates on the project yet?",
+          "options": [
+            "Have; not given",
+            "Had; not given",
+            "Did; not give",
+            "Has; not given"
+          ],
+          "answer": 0,
+          "explanation": "'Have not given' is the correct present perfect form to ask if updates have not been provided up to the present time. The other options use incorrect tenses or structures for the negative interrogative form."
+        },
+        {
+          "questionNo": 5,
+          "question": "Fill in the blanks appropriately:<br> Before she arrived at the party, they ___ already ___.",
+          "options": [
+            "had; eaten",
+            "have; eaten",
+            "had; eat",
+            "has; eaten"
+          ],
+          "answer": 0,
+          "explanation": "The past perfect tense 'had eaten' is used to indicate that the cake was eaten before she arrived at the party. The other options use incorrect tense forms."
+        },
+        {
+          "questionNo": 6,
+          "question": "Fill in the blanks appropriately:<br> ___ they ___ the assignment before the deadline?",
+          "options": [
+            "Did; complete",
+            "Had; completed",
+            "Have; completed",
+            "Had; complete"
+          ],
+          "answer": 1,
+          "explanation": "'Had completed' is the correct past perfect form to ask if the assignment was finished before the deadline. The other options use incorrect tenses."
+        },
+        {
+          "questionNo": 7,
+          "question": "Fill in the blanks appropriately:<br> ___ she ___ the presentation before the meeting started?",
+          "options": [
+            "Had; not finished",
+            "Has; not finished",
+            "Did; not finish",
+            "Have; not finished"
+          ],
+          "answer": 0,
+          "explanation": "'Had not finished' is the correct past perfect negative form to ask if the presentation was not completed before the meeting started. The other options are incorrect tenses or structures."
+        },
+        {
+          "questionNo": 8,
+          "question": "The sentence 'She has lived in three different countries.' uses which tense?",
+          "options": [
+            "Present Simple",
+            "Present Continuous",
+            "Present Perfect",
+            "Present Perfect Continuous"
+          ],
+          "answer": 2,
+          "explanation": "The sentence uses the present perfect tense 'has lived,' which is formed with 'has' (or 'have') + the past participle 'lived.' This tense is used to describe an action that started in the past and continues into the present or has relevance to the present."
+        },
+        {
+          "questionNo": 9,
+          "question": "Identify the tense in the sentence: 'I have never tasted sushi before.'",
+          "options": [
+            "Present Simple",
+            "Present Perfect",
+            "Present Continuous",
+            "Present Perfect Continuous"
+          ],
+          "answer": 1,
+          "explanation": "The sentence uses the present perfect tense 'have never tasted,' which is used to describe an experience up to the present."
+        },
+        {
+          "questionNo": 10,
+          "question": "The sentence 'By the time we arrived, he had already left.' is in which tense?",
+          "options": [
+            "Past Simple",
+            "Past Continuous",
+            "Past Perfect",
+            "Past Perfect Continuous"
+          ],
+          "answer": 2,
+          "explanation": "The sentence uses the past perfect tense 'had already left,' indicating an action that was completed before another past event (our arrival). The past perfect is used to show the sequence of past actions."
+        },
+        {
+          "questionNo": 11,
+          "question": "Identify the tense in the sentence: 'They had finished their homework before the movie started.'",
+          "options": [
+            "Past Simple",
+            "Past Perfect",
+            "Past Continuous",
+            "Past Perfect Continuous"
+          ],
+          "answer": 1,
+          "explanation": "'Had finished' is the past perfect tense, which shows that the action of finishing the homework was completed before the movie started."
+        },
+        {
+          "questionNo": 12,
+          "question": "The sentence 'Have you ever traveled to another country?' is in which tense?",
+          "options": [
+            "Present Perfect",
+            "Present Simple",
+            "Present Continuous",
+            "Present Perfect Continuous"
+          ],
+          "answer": 0,
+          "explanation": "'Have you ever traveled' is the present perfect tense, used to ask about an experience that might have occurred at any point up to the present."
+        },
+        {
+          "questionNo": 13,
+          "question": "The sentence 'Had you finished the report before the meeting began?' is in which tense?",
+          "options": [
+            "Past Perfect",
+            "Past Simple",
+            "Past Continuous",
+            "Past Perfect Continuous"
+          ],
+          "answer": 0,
+          "explanation": "'Had you finished' is the past perfect tense, used to ask if the action of finishing the report was completed before another past event (the meeting beginning)."
+        },
+        {
+          "questionNo": 14,
+          "question": "Spot the error in the following question:<br> Have you ever knew the answer to that question before?",
+          "options": [
+            "Have",
+            "you",
+            "ever knew",
+            "the answer"
+          ],
+          "answer": 2,
+          "explanation": "The correct form should be 'Have you ever known,' using the past participle 'known' instead of 'knew.'"
+        },
+        {
+          "questionNo": 15,
+          "question": "Spot the error in the following question:<br> Had they already finish their homework by the time you called them?",
+          "options": [
+            "Had",
+            "they",
+            "already finish",
+            "by the time"
+          ],
+          "answer": 2,
+          "explanation": "The correct form should be 'Had they already finished,' using the past participle 'finished' instead of 'finish.'"
+        },
+        {
+          "questionNo": 16,
+          "question": "They had not went to the new café by the time it was reviewed.",
+          "options": [
+            "had",
+            "not",
+            "went",
+            "by the time"
+          ],
+          "answer": 2,
+          "explanation": "The correct form should be 'had not gone,' using the past participle 'gone' instead of 'went.'"
+        },
+        {
+          "questionNo": 17,
+          "question": "Choose the correct form of verb in the following sentence:<br> __________ you __________ (ever visit) a country where you didn’t speak the language?",
+          "options": [
+            "Have / ever visited",
+            "Had / ever visited",
+            "Do / ever visit",
+            "Will / ever visit"
+          ],
+          "answer": 0,
+          "explanation": "The sentence is asking about an experience that might have occurred up to the present time. The correct form is the present perfect tense: 'Have you ever visited.'"
+        },
+        {
+          "questionNo": 18,
+          "question": "Choose the correct form of verb in the following sentence:<br> __________ they __________ (not receive) the email before the meeting started?",
+          "options": [
+            "Have / not received",
+            "Had / not received",
+            "Did / not receive",
+            "Will / not receive"
+          ],
+          "answer": 1,
+          "explanation": "The sentence is asking about an action (not receiving the email) that was not completed before another past event (the meeting starting). The correct form is the past perfect tense: 'Had they not received.'"
+        },
+        {
+          "questionNo": 19,
+          "question": "Choose the correct form of verb in the following sentence:<br> By the time the guests arrived, the chef __________ (already prepare) the meal.",
+          "options": [
+            "had already prepared",
+            "has already prepared",
+            "will have already prepared",
+            "had already preparing"
+          ],
+          "answer": 0,
+          "explanation": "The sentence uses the past perfect tense to indicate that the action (preparing the meal) was completed before another past event (the guests arriving). The past perfect tense is formed with 'had' + past participle. The correct form is 'had already prepared.'"
+        },
+        {
+          "questionNo": 20,
+          "question": "Choose the correct form of verb in the following sentence:<br> He __________ (not understand) the instructions before the test began.",
+          "options": [
+            "had not understood",
+            "has not understood",
+            "did not understand",
+            "was not understanding"
+          ],
+          "answer": 0,
+          "explanation": "The sentence refers to an action (understanding the instructions) that was not completed before another past event (the test beginning). The correct form is the past perfect tense: 'He had not understood.'"
+        }
+      ]
+    }
+  ]
+}
